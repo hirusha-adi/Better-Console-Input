@@ -1,5 +1,5 @@
 # Better-Console-Input
-Python3
+with Python3 easily
 
 # How to use?
 Please refer to the sample.py ( https://github.com/hirusha-adi/Better-Console-Input/blob/main/sample.py )
