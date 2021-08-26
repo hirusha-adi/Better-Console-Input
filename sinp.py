@@ -10,4 +10,3 @@ def inp(username="hirusha", projname="Project-Name123", ctx="~"):
     y = input(x)
     return y
 
-inp()
