@@ -1,5 +1,7 @@
 # Better console input
 
+cinp.py is a Python module that provides a collection of customizable prompt functions for interactive console input. With cinp.py, you can easily prompt users for input in various styles, from simple text prompts to decorated prompts with warnings and validations.
+
 ### Usage
 
 1. **Installation**:
